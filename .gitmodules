@@ -1,0 +1,9 @@
+[submodule "lottery_scheduler"]
+	path = lottery_scheduler
+	url = https://github.com/TanviDeore/lottery-scheduler-xv6
+[submodule "unix_shell"]
+	path = unix_shell
+	url = https://github.com/TanviDeore/unix-like-shell
+[submodule "Multithreading_programming"]
+	path = Multithreading_programming
+	url = https://github.com/TanviDeore/seekingTutor
